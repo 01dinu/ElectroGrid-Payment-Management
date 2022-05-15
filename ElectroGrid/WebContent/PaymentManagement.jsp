@@ -20,7 +20,7 @@
 				<form id="formPaymentManagement" name="formPaymentManagement" method="post" action="PaymentManagement.jsp">
 
 
-					Account No: <input id="accountno" name="accountno" type="text" maxlength="4" placeholder="Enter Account No:" maxlength="10" required="required"
+					Account No: <input id="accountno" name="accountno" type="text" maxlength="4" placeholder="Enter Account No:" maxlength="4" required="required"
 						class="form-control form-control-sm"> 
 						
 						<br>Customer Name: <input id="cusname" name="cusname" type="text" placeholder="Enter Customer Name" required="required"
