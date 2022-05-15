@@ -56,7 +56,7 @@ function onProjectSaveComplete(response, status) {
 	}
 
 	$("#hidProjectIDSave").val("");
-	$("#formBillManagement")[0].reset();
+	$("#formPaymentManagement")[0].reset();
 }
 
 // UPDATE==========================================
